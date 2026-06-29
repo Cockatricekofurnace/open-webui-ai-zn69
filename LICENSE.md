@@ -1,4 +1,4 @@
-# 
+# Atualizado Open WebUI scripts. Com ajuste fino e análise de documentos — otimizado para máximo desempenho e eficiência.
 
 
 
